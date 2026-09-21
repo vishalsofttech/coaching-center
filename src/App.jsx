@@ -41,6 +41,12 @@ function App() {
           <p>Your questions, answered</p>
           <ul>
             <li>
+              this is done
+              <a href='https://google.com' target="_blank">
+              <img src={'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7zDMYnGheNT1l7pEW3R5N3Uf4--yCjRprCG9W5WQ58g&s=10'} alt=""  />
+              </a>
+            </li>
+            <li>
               <a href="https://vite.dev/" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
                 Explore Vite
